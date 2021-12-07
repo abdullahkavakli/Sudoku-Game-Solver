@@ -10,7 +10,7 @@ Run sudoku_GUI.py to play sudoku.
 
 ![](https://raw.githubusercontent.com/abdullahkavakli/Sudoku-Game-Solver/main/img/sudoku-gif.gif)
 
-To run, change your server name with "Server=YOURSERVERNAME;" in dbconnection.py. You can find your server name from msSQL:
+To run, change your server name with "Server=YOURSERVERNAME;" in dbconnection.py. You can find your server name from MsSQL:
 
 ![](https://raw.githubusercontent.com/abdullahkavakli/Sudoku-Game-Solver/main/img/db-connection.JPG)
 
@@ -21,5 +21,6 @@ Sudoku Oyunu & Çözücü|Python, MsSQL
 •Arayüz için Pygame kütüphanesi kullanılarak yazılmış bir sudoku oyunudur.
 
 •Sudoku çözücü özelliği sayesinde MsSQL veritabanından aldığı çözülmemiş sudoku matrislerini çözerek yeni oyun için kullanıyor.
+
 •Geri izleme algoritması kullanılarak çözücü görselleştirmesi eklendi.
 Veritabanı bağlantısı için MsSQl kullanıldı.(.bak dosyasından veritabanının restore edileceğini bilmiyorsanız şuradan izleyebilirsiniz: https://www.youtube.com/watch?v=mr8Lpkx5yag)
