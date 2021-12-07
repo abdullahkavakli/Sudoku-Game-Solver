@@ -16,6 +16,6 @@ Sudoku Oyunu & Çözücü|Python, MsSQL
 
 •Arayüz için Pygame kütüphanesi kullanılarak yazılmış bir sudoku oyunudur.
 
-•Sudoku çözücü özelliği sayesinde MsSQL veritabanından aldığı çözülmemiş sudoku matrislerini çözerek yeni oyuniçin kullanıyor.
-
+•Sudoku çözücü özelliği sayesinde MsSQL veritabanından aldığı çözülmemiş sudoku matrislerini çözerek yeni oyun için kullanıyor.
 •Geri izleme algoritması kullanılarak çözücü görselleştirmesi eklendi.
+Veritabanı bağlantısı için MsSQl kullanıldı.(.bak dosyasından veritabanının restore edileceğini bilmiyorsanız şuradan izleyebilirsiniz: https://www.youtube.com/watch?v=mr8Lpkx5yag)
