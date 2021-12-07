@@ -8,7 +8,7 @@ For DB connection i used MsSQL. You can find backup file.(If you don't know how 
 
 Run sudoku_GUI.py to play sudoku.
 
-![](img/sudoku-gif.gif)
+![](https://raw.githubusercontent.com/abdullahkavakli/Sudoku-Game-Solver/main/img/sudoku-gif.gif)
 
 To run, change your server name with "Server=YOURSERVERNAME;" in dbconnection.py. You can find your server name from msSQL:
 
