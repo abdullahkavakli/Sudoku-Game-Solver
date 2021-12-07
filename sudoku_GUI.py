@@ -158,7 +158,7 @@ class Visualizer:
         coordinate_to_try=self.find_first_available_place()
         if coordinate_to_try!=None:
             x,y=coordinate_to_try     
-            #time.sleep(0.1)
+            # time.sleep(0.0001)
         
         if coordinate_to_try==None:
             return True
@@ -352,18 +352,16 @@ while True:
         if game_active==False :
             board=board_immutable
             Visualize.sudoku_solver_visualizer()
-            print("")
-            time.sleep(4)     
+
+            print("New game is starting...")
+
+            time.sleep(4) 
+            
             set_all_white()       
-
             sample_surface = pygame.display.set_mode((660,660))
-
             Grid.initialize_again()
             square_group.update()
-            pygame.display.update()
-            
-            print("New game is starting...")
-            
+            pygame.display.update()            
              
             game_active=True    
             print("")               
