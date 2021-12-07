@@ -8,6 +8,7 @@ For DB connection i used MsSQL. You can find backup file.(If you don't know how 
 
 Run sudoku_GUI.py to play sudoku.
 
+![](sudoku-gif.gif)
 
 Tr özet:
 
