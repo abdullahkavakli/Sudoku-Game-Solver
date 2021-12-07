@@ -12,5 +12,7 @@ Run sudoku_GUI.py to play sudoku.
 Tr özet:
 Sudoku Oyunu & Çözücü|Python, MsSQL
 •Arayüz için Pygame kütüphanesi kullanılarak yazılmış bir sudoku oyunudur.
+
 •Sudoku çözücü özelliği sayesinde MsSQL veritabanından aldığı çözülmemiş sudoku matrislerini çözerek yeni oyuniçin kullanıyor.
+
 •Geri izleme algoritması kullanılarak çözücü görselleştirmesi eklendi.
