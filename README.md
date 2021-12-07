@@ -12,7 +12,7 @@ Run sudoku_GUI.py to play sudoku.
 
 To run, change your server name with "Server=YOURSERVERNAME;" in dbconnection.py. You can find your server name from msSQL:
 
-![](img/db-connection.jpg)
+![](https://raw.githubusercontent.com/abdullahkavakli/Sudoku-Game-Solver/main/img/db-connection.JPG)
 
 Tr özet:
 
