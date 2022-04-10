@@ -2,7 +2,6 @@ Developed a UI(by Pygame) to play the game of Sudoku, implemented a solver featu
 
 With solver feature, matrixes tht is unsolved is solved by the code.
 
-For solver feature, backtracking algorithm is used.
 
 For DB connection i used MsSQL. You can find backup file.(If you don't know how to restore a database from .bak file you can find from this tutorial: https://www.youtube.com/watch?v=mr8Lpkx5yag)
 
